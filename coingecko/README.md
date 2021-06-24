@@ -3,7 +3,9 @@ A bot that aims to claim daily candy automatically.
 
 
 ### download `candy.sh` into any directory
-
+```
+wget https://github.com/rootial/cointools/blob/main/coingecko/candy.sh
+```
 ### update the cookie
 you can find the cookie in the chrome `Dev Tools | Networks` by inspecting any request to `https://www.coingecko.com`.
 
