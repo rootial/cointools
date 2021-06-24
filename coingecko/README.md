@@ -2,7 +2,7 @@
 A bot that aims to claim daily candy automatically.
 
 
-### download `candy.sh` into any directory
+### download `candy.sh` into current directory
 ```
 wget https://github.com/rootial/cointools/blob/main/coingecko/candy.sh
 ```
